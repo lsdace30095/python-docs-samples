@@ -1,1 +1,2 @@
 google-cloud-vision==0.35.2
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
